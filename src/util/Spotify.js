@@ -1,4 +1,4 @@
-const clientId = '472a6cbfaa374f7e822bdd8f03061c04';
+const clientId = '';
 //remember to remove the client ID before loading to GitHub as this should not be available to the general public.
 const redirectUri = 'http://hushed-squirrel.surge.sh';
 
